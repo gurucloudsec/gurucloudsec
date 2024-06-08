@@ -25,7 +25,7 @@ I'm a dedicated Security Engineer with a keen interest in protecting cloud envir
 
 I'm always open to connecting with fellow security enthusiasts and professionals. Let's collaborate and make the cloud a safer place!
 
-- **LinkedIn:** [https://www.linkedin.com/in/mayodave/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/mayodave/](https://www.linkedin.com/in/mayodave/)
 
 ---
 
